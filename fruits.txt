@@ -2,6 +2,9 @@ Mango
 Apple
 Banana
 Pineapple
+<<<<<<< HEAD
 Grapes
 Plum
+=======
+>>>>>>> parent of 18e9c82 (Add grapes to list of fruits)
 
